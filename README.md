@@ -1,6 +1,6 @@
 # upstream-core
 
-[![Build](https://img.shields.io/travis/com/gh-conf/upstreamit.svg)](https://travis-ci.com/gh-conf/upstreamit/)
+[![Build](https://img.shields.io/travis/com/gh-conf/upstream-core.svg)](https://travis-ci.com/gh-conf/upstream-core/)
 
 Configures upstream for a forked repository at the given directory path
 
