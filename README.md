@@ -17,7 +17,7 @@ const upstream = require('@gh-conf/upstream-core');
 
 await upstream('/home/arshad/upstream-core');
 
-await upstream(process.cwd());
+await upstream(process.cwd);
 ```
 
 ## Contributing
