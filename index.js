@@ -19,7 +19,7 @@ const upstream = async (currentPath) => {
     }
 
     // Fetch current repository usernanme and repository name
-    const { username, repository } = UserRepo();
+    const { username, repository } = UserRepo(currentPath);
 
     // Getting parent repo url
     const url = await ParentRepo(username, repository);

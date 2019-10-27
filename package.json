@@ -30,7 +30,7 @@
   "homepage": "https://github.com/gh-conf/upstream-core#readme",
   "dependencies": {
     "@gh-conf/gh-api": "^1.1.0",
-    "@gh-conf/gh-conf-parse": "^1.0.2",
+    "@gh-conf/gh-conf-parse": "^1.0.3",
     "@gh-conf/gh-conf-read": "^1.1.1",
     "@gh-conf/gh-conf-write": "^1.1.2",
     "strmat": "^1.0.1"
