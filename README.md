@@ -1,6 +1,13 @@
 # upstream-core
 
-[![Build](https://img.shields.io/travis/com/gh-conf/upstream-core.svg)](https://travis-ci.com/gh-conf/upstream-core/)
+![Build](https://github.com/gh-conf/upstream-core/actions/workflows/nodejs.yml/badge.svg)
+[![NPM Version](https://img.shields.io/npm/v/@gh-conf/upstream-core.svg)](https://www.npmjs.com/package/@gh-conf/upstream-core)
+[![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/upstream-core.svg)](https://www.npmjs.com/package/@gh-conf/upstream-core)
+[![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/upstream-core.svg)](https://github.com/gh-conf/upstream-core)
+[![LICENSE](https://img.shields.io/npm/l/@gh-conf/upstream-core.svg)](https://github.com/gh-conf/upstream-core/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/gh-conf/upstream-core.svg)](https://github.com/gh-conf/upstream-core/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/gh-conf/upstream-core.svg)](https://github.com/gh-conf/upstream-core/commits/master)
+
 
 Configures upstream for a forked repository at the given directory path
 
@@ -27,11 +34,6 @@ You can log any issues or suggestion related to this library [here](https://gith
 
 Read our contributing [guide](CONTRIBUTING.md) to get started with contributing to the codebase.
 
-## Contributors
-
-Thank you to all the contributors who have helped us in making this project better 🙌
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
 
 ## Related
 
